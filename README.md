@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Snehal Tanaji Khot
 
-<!--
-**Snehalkhot1/Snehalkhot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science & Engineering (CSE) Student**  
+🏫 Pursuing B.Tech (3rd Year) at **D.Y. Patil College of Engineering & Technology, Kasaba Bawada, Kolhapur**
 
-Here are some ideas to get you started:
+💻 **Aspiring Software Developer**  
+🌐 Passionate about Web Development & Full Stack Development  
+🚀 Currently Learning **React.js** and enhancing my Full Stack Development skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 3rd Year B.Tech CSE Student
+- 💡 Interested in Software Development, Web Development, and Problem Solving
+- 🌱 Currently exploring React.js, Node.js, and Full Stack Development
+- 📚 Continuously learning new technologies and improving programming skills
+- 🎯 Goal: To become a skilled Full Stack Java Developer
+
+---
+
+## 🛠️ Languages & Technologies
+
+### 👨‍💻 Programming Languages
+- C
+- C++
+- Java
+- Python
+
+### 🌐 Web Technologies
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+
+### 📚 Currently Learning
+- React.js
+- Full Stack Development
+
+---
+
+## 📍 Location
+
+📍 Kolhapur, Maharashtra, India
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: khot6834email@gmail.com
+
+💼 LinkedIn:https://www.linkedin.com/in/snehal-khot-b453a4370?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+🌍 Location:** Kolhapur, Maharashtra, India
