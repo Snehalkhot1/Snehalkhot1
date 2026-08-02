@@ -51,4 +51,4 @@
 
 💼 LinkedIn:https://www.linkedin.com/in/snehal-khot-b453a4370?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-🌍 Location:** Kolhapur, Maharashtra, India
+🌍 Location: Kolhapur, Maharashtra, India
