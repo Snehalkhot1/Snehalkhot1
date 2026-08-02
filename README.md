@@ -45,11 +45,7 @@
 
 ---
 ## 📫 Connect with Me
-
-<p align="left">
-<a href="mailto:khot6834email@gmail.com">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="50"/>
-</a>
+Email : khot6834@gmail.com
 
 <a href="https://www.linkedin.com/in/snehal-khot-b453a4370">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50"/>
