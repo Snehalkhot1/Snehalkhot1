@@ -15,7 +15,7 @@
 - 💡 Interested in Software Development, Web Development, and Problem Solving
 - 🌱 Currently exploring React.js, Node.js, and Full Stack Development
 - 📚 Continuously learning new technologies and improving programming skills
-- 🎯 Goal: To become a skilled Full Stack Java Developer
+- 🎯 Goal: To become a skilled Software Developer
 
 ---
 
