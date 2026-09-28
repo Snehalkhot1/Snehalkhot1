@@ -22,20 +22,28 @@
 ## 🛠️ Languages & Technologies
 
 ### 👨‍💻 Programming Languages
-- C
-- C++
-- Java
-- Python
 
-### 🌐 Web Technologies
-- HTML5
-- CSS3
-- JavaScript
-- Node.js
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
 
 ### 📚 Currently Learning
-- React.js
-- Full Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+</p>
 
 ---
 
